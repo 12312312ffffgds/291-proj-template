@@ -1,6 +1,6 @@
 # CMPUT 291 Project 1 - Fall 2023  
 Group member names and ccids (3-4 members)  
-  ccid1, name1  
+  hye3,felix ye  
   ccid2, name2  
   ccid3, name2  
 
